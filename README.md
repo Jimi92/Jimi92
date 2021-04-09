@@ -2,7 +2,8 @@
 - 👀 I’m interested in evolution of natural populations under strong directional selection
 - 🌱 I’m currently learning programming with python
 - 💞️ I’m looking to collaborate with passionated people
-- 📫 Get in contact with me at taliadoros@evolbio.mpg.de
+- 📫 Get in contact with me at taliadoros@evolbio.mpg.de or at twitter: @DTaliadoros
+- In my free time I love getting lost in new places 🏕🏜 or sounds 🎷 and cook for friends 🥞🍗
 
 
 <!---
