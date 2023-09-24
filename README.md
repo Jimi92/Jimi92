@@ -5,7 +5,7 @@
 - 📫 Get in contact with me at taliadoros@evolbio.mpg.de or at twitter: @DTaliadoros
 - In my free time I love getting lost in new places 🏕🏜 or sounds 🎷 and cook for friends 🥞🍗
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jimi92&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimi92&hide_progress=true)
 
 <!---
 Jimi92/Jimi92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
