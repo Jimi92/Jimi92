@@ -2,7 +2,7 @@
 - 👀 I’m interested in evolution of natural populations under strong directional selection
 - 🌱 I’m currently learning programming with python
 - 💞️ I’m looking to collaborate with passionated people
-- 📫 Get in contact with me at taliadoros@evolbio.mpg.de or at twitter: @DTaliadoros
+- 📫 Get in contact with me at taliadoros@evolbio.mpg.de or on twitter: @DTaliadoros
 - In my free time I love getting lost in new places 🏕🏜 or sounds 🎷 and cook for friends 🥞🍗
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jimi92&layout=compact)
